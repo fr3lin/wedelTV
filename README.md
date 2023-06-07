@@ -1,1 +1,1 @@
-# wedelTV
+Wave animation for Wedel TV.
